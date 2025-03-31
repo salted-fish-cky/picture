@@ -1,9 +1,68 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="第 1 页" id="OGoV1AmCXpo_j28BFgOX">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kw_JbPaCcz0J8geN5l_y-12" target="kw_JbPaCcz0J8geN5l_y-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183.25" y="145.5" width="170" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.x_ray;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="76.5" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.x_ray;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="76.5" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.x_ray;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="76.5" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-4" value="VJ XRay" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238.25" y="245.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-5" value="Bosello XRay" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238.25" y="405.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-6" value="YXLON XRay" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238.25" y="565.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kw_JbPaCcz0J8geN5l_y-8" target="kw_JbPaCcz0J8geN5l_y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-8" value="Java SPI接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-9" value="协议中间件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="340.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-10" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.d" vertex="1" parent="1">
+          <mxGeometry x="960" y="325.5" width="72" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-11" value="服务集群" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="966" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-13" value="硬件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238.25" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-15" value="实现标准化接口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-19" value="参数配置热加载" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="340.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kw_JbPaCcz0J8geN5l_y-11" target="kw_JbPaCcz0J8geN5l_y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kw_JbPaCcz0J8geN5l_y-9" target="kw_JbPaCcz0J8geN5l_y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kw_JbPaCcz0J8geN5l_y-22" value="异步消息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="340.5" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
